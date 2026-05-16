@@ -321,8 +321,8 @@ img {
 }
 
 .home__blur {
-  background-color: var(--opacity-color-20);
-  backdrop-filter: blur(10px);
+  background-color: var(--opacity-color-30);
+  backdrop-filter: blur(5px);
   transition: background-color 0.4s;
 }
 
