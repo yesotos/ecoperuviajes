@@ -427,7 +427,7 @@ img {
   left: 0;
   bottom: 0;
   width: 100%;
-  padding: 1.5rem;
+  padding: 0.2rem;
   background-color: var(--opacity-color-30);
   backdrop-filter: blur(24px);
   color: var(--white-color);
